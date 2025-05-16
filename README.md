@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ian Frye 👋</h1>
 
-<!--
-**ianfrye0818/ianfrye0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Full Stack Developer • ⚡ Problem Solver • 🎯 Tech Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a motivated and detail-oriented software developer with a passion for building full-stack and mobile applications. I thrive on solving real-world problems through clean, efficient code and collaboration with cross-functional teams.
+
+Currently working as a **Full Stack Engineer at Quality Oil Company**, where I lead the development of internal systems like CRM, ERP, and ticketing platforms.
+
+### 🧰 Tech Stack
+
+- **Languages**: TypeScript · Java · Dart · SQL  
+- **Frameworks & Tools**: NestJS · React · Flutter · Prisma · Docker · Node.js  
+- **Databases**: PostgreSQL · MySQL · SQL Server  
+- **Other**: Agile Methodologies · Git · CI/CD · REST APIs
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ianfrye0818&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianfrye0818&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📚 Currently Learning
+
+- Advanced backend architecture with NestJS and GraphQL  
+- System design and scalable infrastructure  
+- Cloud deployment and observability
+
+---
+
+### 🎓 Education & Certifications
+
+- 💼 **Associates Degree** — Forsyth Technical Community College *(in progress)*  
+- ✅ **Scrimba Front-End Developer Bootcamp** — Graduated Jan 2023
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ianfrye3/)  
+- 🧪 Building cool side projects in public, stay tuned!  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
