@@ -29,7 +29,7 @@ of internal systems like CRM, ERP, and ticketing platforms.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ianfrye0818&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianfrye0818&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianfrye0818&theme=tokyo-night" alt="GitHub Commits" />
 </p>
 
 ---
