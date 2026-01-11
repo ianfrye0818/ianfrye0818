@@ -1,26 +1,30 @@
 <h1 align="center">Hi, I'm Ian Frye 👋</h1>
-
 <p align="center">
-  💻 Full Stack Developer • ⚡ Problem Solver • 🎯 Tech Enthusiast  
+  💻 Full Stack Developer • 🏗️ System Architect • 🎯 Continuous Learner  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a motivated and detail-oriented software developer with a passion for building full-stack and
-mobile applications. I thrive on solving real-world problems through clean, efficient code and
-collaboration with cross-functional teams.
+I'm a **Programmer Analyst at Quality Oil Company**, leading development of multiple business-critical systems that power fuel operations across 200+ sites. I specialize in building scalable full-stack applications that solve real-world business problems—from invoice automation and tank monitoring systems to maintenance ticketing platforms.
 
-Currently working as a **Full Stack Engineer at Quality Oil Company**, where I lead the development
-of internal systems like CRM, ERP, and ticketing platforms.
+Currently pursuing a **Software Engineering degree with C# concentration** while working full-time, I'm passionate about clean architecture, modern web technologies, and turning complex requirements into elegant solutions.
 
 ### 🧰 Tech Stack
 
-- **Languages**: TypeScript · Java · C# · SQL
-- **Frameworks & Tools**: NestJS · React · Flutter · Spring Boot · Docker · Node.js
-- **Databases**: MySQL · SQL Server · PostgreSQL
-- **Other**: Agile Methodologies · Git · GraphQL · CI/CD · REST APIs
+**Primary Stack**
+- **Languages**: TypeScript · C# · SQL · Python
+- **Frontend**: React · TanStack Start · Tailwind CSS
+- **Backend**: NestJS · .NET · Node.js
+- **Databases**: SQL Server · PostgreSQL · MySQL
+- **Architecture**: CQRS · Clean Architecture · Microservices
+- **Tools**: Docker · Git · QuickBooks API · Prisma · Entity Framework Core
+
+**Currently Exploring**
+- TanStack Start for full-stack development with server functions
+- Advanced CQRS patterns and event-driven architecture
+- Linux development workflows with Neovim
 
 ---
 
@@ -34,27 +38,38 @@ of internal systems like CRM, ERP, and ticketing platforms.
 
 ---
 
+### 🛠️ What I'm Building
+
+- **QTicket** - Notification and ticketing system for operations management
+- **QAudit** - Business system auditing platform
+- **QPoll** - Fuel inventory polling system integrating with Veeder Root tank monitors
+- **Markethub** - Marketing and business intelligence platform
+- **Invoice Automation** - QuickBooks API integration replacing manual data entry workflows
+
+---
+
 ### 📚 Currently Learning
 
-- Advanced backend architecture with NestJS, Spring Boot, and GraphQL
-- System design and scalable infrastructure
-- Cloud deployment and observability
+- Advanced database optimization and migration strategies
+- TanStack ecosystem for modern full-stack development
+- Session management and authentication patterns
+- Clean architecture implementation in enterprise systems
 
 ---
 
 ### 🎓 Education & Certifications
 
-- 💼 **Associates Degree** — Forsyth Technical Community College _(in progress)_ - Graduating May
-  2026
+- 💼 **Software Engineering Degree (C# Concentration)** — In Progress, Expected 2026
+- 💼 **Associates Degree** — Forsyth Technical Community College
 - ✅ **Scrimba Front-End Developer Bootcamp** — Graduated Jan 2023
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ianfrye3/)
-- 🧪 Building cool side projects in public, stay tuned!
+- 💡 Always interested in discussing software architecture, system design, and practical engineering solutions
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Make it work, make it right, make it fast." – Kent Beck
